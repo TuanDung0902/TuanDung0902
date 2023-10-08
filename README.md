@@ -2,6 +2,7 @@
 ⭐ What I do:
 - Doing experiment with computer 💻
 - Developing tools that may help you
+- Exploring new things about computer on internet 
 
 🎚️ My computer science level:
 - Program basic Batch script
