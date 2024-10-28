@@ -1,6 +1,7 @@
 # About me
 ⭐ What I do:
 - Still having no plan for future projects
+
 💻 My laptop:
 - Sytem: HP ProBook 430 G2
 - CPU: Intel Core i5-5200U (4 core) @ 2.70 GHz
